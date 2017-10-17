@@ -21,16 +21,17 @@ try:
     length = len(num_list)
     leng_num = length/2.0
     ### 输入全为常数项时
+    zero_num = num_list.count(0)
     if num_list == [0,0]:
         print('%d %d'%(0,0),end='')
-    zero_num = num_list.count(0)
-    if zero_num == leng_num:
+    #zero_num = num_list.count(0)
+    elif zero_num == leng_num:
         for i in range(int(leng_num)):
             if i == leng_num-1:
                 print('%d %d'%(0,0),end='')
             else:
                 print('%d %d '%(0,0),end='')
-    if zero_num == len(num_list):
+    elif zero_num == len(num_list):
         for i in range(int(leng_num)):
             if i == leng_num-1:
                 print('%d %d'%(0,0),end='')
