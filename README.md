@@ -25,3 +25,5 @@ pycharm python 3.4
 [pat1009 	说反话 (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1009.py)
 
 [pat1010 多项式求导（20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1010.py)
+
+[pat1011 	A+B和C (15)](https://github.com/zxf864823150/PAT_B/blob/master/pat1011.py)
