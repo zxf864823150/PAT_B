@@ -27,3 +27,5 @@ pycharm python 3.4
 [pat1010 多项式求导（20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1010.py)
 
 [pat1011 	A+B和C (15)](https://github.com/zxf864823150/PAT_B/blob/master/pat1011.py)
+
+[pat1012 	数字分类 (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1012.py)
