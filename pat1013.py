@@ -1,5 +1,5 @@
 import math as ma
-
+### 牛客网通过，pat显示一个超时
 def P(a):
     num = ma.sqrt(a)
     tip_num = int(num)+1
