@@ -1,6 +1,7 @@
 # 说明：
-楼主是新手，尝试将乙级的题目全部用python实现一遍
+1、楼主是新手，尝试将乙级的题目全部用python实现一遍。
 
+2、以下代码均可在牛客网ac，有部分在pat上无法100% ac，求指点。
 # 环境:
 pycharm python 3.4
 
@@ -36,8 +37,8 @@ pycharm python 3.4
 
 [pat 1016   部分A+B (15)](https://github.com/zxf864823150/PAT_B/blob/master/pat1016.py)
 
-[pat 1017 	A除以B (20)]()
+[pat 1017 	A除以B (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1017.py)
 
-[pat 1018 锤子剪刀布 (20)]()
+[pat 1018 锤子剪刀布 (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1018.py)
 
-[pat 1019 	数字黑洞 (20)]()
+[pat 1019 	数字黑洞 (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1019.py)
