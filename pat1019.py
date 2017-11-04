@@ -1,6 +1,7 @@
 ###坑：3要转变为0003处理，考虑中间步骤会产生类似的情况要补全
 ###测试点3过不去，求指点
 def P_A(a):
+    '''
     Ascend_list = sorted(a)
     small_num = Ascend_list[0]
     Down_list = Ascend_list[::-1]
@@ -9,6 +10,10 @@ def P_A(a):
         small_num+=Ascend_list[i]
     for j in range(1,len(Down_list)):
         big_num+=Down_list[j]
+    '''
+    ### 以上部分可以用如下代替，但是速度会慢
+    small_num = ''.join(sorted(a))
+    big_num = ''.join(sorted(a,reverse=True))
     answer_num = int(big_num) - int(small_num)
     print(big_num+' - '+small_num+' = '+'%d'%answer_num)
     return answer_num
