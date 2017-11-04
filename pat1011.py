@@ -17,9 +17,10 @@ else:
         c = l[2]
         if a not in range(pow(-2,31),pow(2,31)+1) or b not in range(pow(-2,31),pow(2,31)+1) or\
                         c not in range(pow(-2,31),pow(2,31)+1):
-            print(None)
-        answer = P(a,b,c,i)
-        answer_list.append(answer)
+            pass
+        else:
+            answer = P(a,b,c,i)
+            answer_list.append(answer)
     for j in range(len(answer_list)):
         if j == len(answer_list)+1:
             print(answer_list[j],end='')
