@@ -33,3 +33,5 @@ pycharm python 3.4
 [pat1013 数素数 (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1013.py)
 
 [pat 1014 	福尔摩斯的约会 (20)](https://github.com/zxf864823150/PAT_B/blob/master/pat1014.py)
+
+[pat 1016   部分A+B (15)](https://github.com/zxf864823150/PAT_B/blob/master/pat1016.py)
