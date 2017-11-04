@@ -40,6 +40,7 @@ def GET_MIN(a,b):
             break
     #print(MIN)
     return MIN
+
 def NEW_HOU(a,b):
     tip_list = []
     time_list = list(range(10))
